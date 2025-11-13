@@ -1,0 +1,16 @@
+{
+  "template": "https://github.com/konflux-ci/task-repo-shared-ci",
+  "commit": "d7576f5afe3b8b444920f97f40a6c8b20281a33b",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "repo_root": ".",
+      "_copy_without_render": [
+        "*"
+      ],
+      "_template": "https://github.com/konflux-ci/task-repo-shared-ci",
+      "_commit": "d7576f5afe3b8b444920f97f40a6c8b20281a33b"
+    }
+  },
+  "directory": null
+}
